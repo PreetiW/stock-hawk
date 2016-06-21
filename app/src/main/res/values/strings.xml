@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Stock Hawk</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_change_units">Change Units</string>
+    <string name="symbol_search">Symbol Search</string>
+    <string name="content_test">Search for a Stock Symbol</string>
+    <string name="input_hint">FB</string>
+    <string name="input_prefill"></string>
+    <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+    <string name="invalid_stock_value">Stock information not available</string>
+
+
+    <!--Added by me -->
+    <string name="goog">GOOG</string>
+    <string name="bid_default_value">1000.00</string>
+    <string name="change_default_value">100%</string>
+    <string name="stock_saved_message">This stock is already saved!</string>
+
+
+
+</resources>
